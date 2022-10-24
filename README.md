@@ -10,7 +10,7 @@
   </em>
   <br>
 
-I've previously worked for 3 years at BNP Paribas in the Global Markets Division as a Software Engineer. 
+I've previously worked for 3 years at BNP Paribas, India🇮🇳 in the Global Markets Division as a Software Engineer⭐️. 
 My interests are in Algorithms/Data Structures, Web Frameworks, Clean Code,  Design Patterns etc..
 
 <img align="right" alt="Coder GIF" height=400 width=600 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
