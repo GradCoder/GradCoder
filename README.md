@@ -16,12 +16,12 @@ My interests are in Algorithms/Data Structures, Web Frameworks, Clean Code,  Des
 <h4> <b> Talking about Personal Stuff: </b> </h4>
 <p align="left"> 
 <ul>
-<li> 🎸  Passionate about Guitar & Food.</li> <br>
-<li> 🙋🏻‍♂️  Always eager to connect with other people.</li> <br>
-<li> 📧  Please email to pranavjain99jain@gmail.com to reach me. </li> <br>
-<li> 📝  See my <a href="https://drive.google.com/file/d/df/view">Curriculum Vitae</a> to get more info. </li> <br>
-<li> 🖥  My Linkedin -  <a href="https://www.linkedin.com/in/-pranavjain">Pranav Jain</a> </li> <br>
-<li> 💬  Ask me about anything, I am happy to help; </li> <br>
+<li> 🎸  Passionate about Guitar & Food.</li>
+<li> 🙋🏻‍♂️  Always eager to connect with other people.</li>
+<li> 📧  Please email to pranavjain99jain@gmail.com to reach me. </li>
+<li> 📝  See my <a href="https://drive.google.com/file/d/df/view">Curriculum Vitae</a> to get more info. </li>
+<li> 🖥  My Linkedin -  <a href="https://www.linkedin.com/in/-pranavjain">Pranav Jain</a> </li>
+<li> 💬  Ask me about anything, I am happy to help; </li>
 </ul>
 </p>
 <!---
