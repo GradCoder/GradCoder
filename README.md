@@ -7,6 +7,7 @@
   <em>
   Hello! <b>I'm Pranav Jain</b>,
     a graduate <b> Computer Science</b> student at University Of Florida 🐊
+  </em>
   <br>
 
 I've previously worked for 3 years at BNP Paribas in the Global Markets Division as a Software Engineer. 
@@ -16,6 +17,7 @@ My interests are in Algorithms/Data Structures, Web Frameworks, Clean Code,  Des
 <h4> <b> Talking about Personal Stuff: </b> </h4>
 <p align="left"> 
 <ul>
+<li> 📆  Currently looking for Summer 2023 Internships 
 <li> 🎸  Passionate about Guitar & Food.</li>
 <li> 🙋🏻‍♂️  Always eager to connect with other people.</li>
 <li> 📧  Please email to pranavjain99jain@gmail.com to reach me. </li>
