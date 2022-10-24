@@ -11,12 +11,14 @@
 
 I've previously worked for 3 years at BNP Paribas in the Global Markets Division as a Software Engineer. 
 My interests are in Algorithms/Data Structures, Web Frameworks, Clean Code,  Design Patterns etc..
-    
+
+<img align="right" alt="Coder GIF" height=400 width=600 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
+<p align="left"> 
 - 💬  Ask me about anything, I am happy to help; <br>
 - 🎸  Passionate about Guitar & Food. <br>
 - 🙋🏻‍♂️  Always eager to connect with other people. <br>
 - 📧  Please email to pranavjain99jain@gmail.com to reach me.<br>
-    
+</p>
 <!---
 GradCoder/GradCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
