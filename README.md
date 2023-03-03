@@ -21,7 +21,7 @@ My interests are in Algorithms/Data Structures, Web Frameworks, Clean Code,  Des
 <li> 🎸  Passionate about Guitar & Food. </li>
 <li> 🌱  Always eager to connect with other people.</li>
 <li> 📫  Please email at pranavjain99jain@gmail.com to reach me. </li>
-<li> 📄  See my <a href="https://drive.google.com/file/d/df/view">Curriculum Vitae</a> to get more info. </li>
+<li> 📄  See my <a href="https://drive.google.com/file/d/1_BvlgE_72QhihgnQ8zexzyWgqlB6EaEt/view">Curriculum Vitae</a> to get more info. </li>
 <li> 📌  My Linkedin -  <a href="https://www.linkedin.com/in/-pranavjain">Pranav Jain</a> </li>
 <li> 💬  Ask me about anything, I am happy to help; </li>
 </ul>
