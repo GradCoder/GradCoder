@@ -13,7 +13,7 @@
 I'm an Incoming Software Engineering Intern at Yahoo! - Yahoo Mail Storage Team. Previously, I've worked for 3 years at BNP Paribas, India 🇮🇳 as a Software Engineer ⭐️ - Global Markets. 
 My interests are in Algorithms/Data Structures, Web Frameworks, Clean Code,  Design Patterns etc.
 
-<img align="right" alt="Coder GIF" height=400 width=600 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
+<img align="right" alt="Coder GIF" height=600 width=600 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 <h4> <b> Talking about Personal Stuff: </b> </h4>
 <p align="left"> 
 <ul>
