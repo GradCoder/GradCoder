@@ -18,7 +18,7 @@ My interests are in Algorithms/Data Structures, Distributed Systems, Web Framewo
 <h4> <b> Talking about Personal Stuff: </b> </h4>
 <p align="left"> 
 <ul>
-  <li> 📆  Currently looking for <b> Full Time SDE roles. </b> </li>
+  <li> 📆  Currently looking for <b> SDE roles. </b> </li>
 <li> 🎸  Passionate about Guitar & Food. </li>
 <li> 🌱  Always eager to connect with other people.</li>
 <li> 📫  Please email at pranavjain99jain@gmail.com to reach me. </li>
