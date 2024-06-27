@@ -19,7 +19,7 @@ My interests are in Algorithms/Data Structures, Distributed Systems, Web Framewo
 <h4> <b> Talking about Personal Stuff: </b> </h4>
 <p align="left"> 
 <ul>
-  <li> 📆  Currently looking for <b> SDE roles. </b> </li>
+<li> 📖  Currently reading Head First Design Patterns. 
 <li> 🎸  Passionate about Guitar & Food. </li>
 <li> 🌱  Always eager to connect with other people.</li>
 <li> 📌  My Linkedin -  <a href="https://www.linkedin.com/in/-pranavjain">Pranav Jain</a> </li>
